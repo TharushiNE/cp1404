@@ -1,5 +1,4 @@
-"""git config user.name
-
+"""
 CP1404/CP5632 - Practical 01
 Program for temperature conversion
 """
