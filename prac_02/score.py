@@ -12,3 +12,7 @@ elif score >= 50:
     print("Passable")
 else:
     print("Bad")
+
+def main():
+    score = float(input("Enter score: "))
+
